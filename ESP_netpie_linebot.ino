@@ -5,10 +5,10 @@
 const char* ssid     = "CPH1611"; //change this to your SSID
 const char* password = "87654321"; //change this to your PASSWORD
 
-const char* host = "https://settingf.herokuapp.com/bot.php";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
-#define APPID   "ffff"     //change this to your APPID
-#define KEY     "OC2I9eg4sWhAeaU"     //change this to your KEY
-#define SECRET  "ooc1AqlvKxJh3Wc3SpF0qKSOK"     //change this to your SECRET
+const char* host = "https://qrintop.herokuapp.com/bot.php";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
+#define APPID   "ESP82666"     //change this to your APPID
+#define KEY     "hrEKcDCBpe9oO8D"     //change this to your KEY
+#define SECRET  "7fFOTeoEaV1xe5e63v4H0Xtnk"     //change this to your SECRET
 
 #define ALIAS   "NodeMCU1" //set name of drvice
 #define TargetWeb "switch" //set target name of web
